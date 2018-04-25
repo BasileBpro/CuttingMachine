@@ -1,0 +1,197 @@
+C:\Users\Baslique\Documents\Projet\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet1\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet1\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet1\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Visual Studio 2017\Projects\Projet2\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\bulle\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Dropbox\Jeu (1)\Projet2\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet2\Projet\Projet\obj\Debug\Projet.Form8.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Form8.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet3\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Form8.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet4\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Form8.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet5\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form8.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet6\Projet\Projet\obj\Debug\Projet.Form9.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form7.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form8.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Form9.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Baslique\Documents\Projet7\Projet\Projet\obj\Debug\Projet.pdb
